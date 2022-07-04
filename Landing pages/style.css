@@ -141,7 +141,7 @@ background-color: rgb(255, 15, 15);
   .rounded-pill a {float: left;}
   div.nav {margin-left: 0px;}
 }
-@media only screen and (max-width: 393px) 
+@media only screen and (max-width: 450px) 
 { 
   .rounded-pill{
     display: inline-flex;
@@ -168,8 +168,8 @@ background-color: rgb(255, 15, 15);
   }
  
  #six li img:hover{
-    width:310px;
-   height:340px;
+    width:345px;
+   height:400px;
  }
 
 .ftr li a{
