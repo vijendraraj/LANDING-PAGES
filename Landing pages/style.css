@@ -187,8 +187,6 @@ background-color: rgb(255, 15, 15);
   font-size:x-large;
   
 }
-
-
  }
 
 /*media queries section end*/
@@ -257,4 +255,38 @@ ul li img:hover{
 #foot1:hover{
   transition: all .05s ease;
   font-size: x-large;
+}
+.mode {		
+  float: right;
+  margin-top: 100px;
+  
+}
+.change {
+  cursor: pointer;
+  border: 2px solid rgb(255, 255, 255);
+  border-radius: 20%;
+  width: 33px;
+  text-align: center;
+  padding: 20px;
+  margin-top: 0px;
+  background-color: rgb(56, 92, 236);
+}
+.dark{		
+  background-color: #222;
+  color: rgb(0, 0, 0);
+}
+#btn-back-to-top {
+  position: fixed;
+  bottom: 5px;
+  right: 5px;
+
+}
+.uparrow{
+    width: 50px;
+    height: 50px;
+    background-color: rgb(56, 92, 236);
+    border-radius: 50%;
+}
+.uparrow:hover{
+  box-shadow: -5px -5px 30px rgb(212, 25, 25);
 }
