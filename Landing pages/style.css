@@ -263,11 +263,12 @@ ul li img:hover{
 }
 .change {
   cursor: pointer;
-  border: 2px solid rgb(255, 255, 255);
-  border-radius: 20%;
-  width: 33px;
+  border: 1px solid rgb(0, 0, 0);
+  border-radius: 25%;
+  width: 25px;
+  height: 28px;
   text-align: center;
-  padding: 20px;
+  padding: 14px;
   margin-top: 0px;
   background-color: rgb(56, 92, 236);
 }
